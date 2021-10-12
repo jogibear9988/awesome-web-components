@@ -171,6 +171,10 @@ A collection of **awesome** web components.
   - [TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.](https://github.com/CreateJS/TweenJS) ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)
 - [web-component-decorator](https://github.com/edwinm/web-component-decorator) - Lightweight TypeScript decorators for easier handling of attribute changes and cleaner code
 
+## Designer
+
+- [web-component-designer](https://github.com/node-projects/web-component-designer) - A Design Framework Webcomponent, to Design HTML using Webcomponents
+
 ## Machine Learning & AI
 
 - [Neuro.js is machine learning framework for building AI assistants and chat-bots.](https://github.com/intelligo-systems/neuro) ![](https://img.shields.io/github/stars/intelligo-systems/neuro?style=social)
